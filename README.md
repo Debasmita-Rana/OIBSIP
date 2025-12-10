@@ -1,3 +1,4 @@
+Online Reservation System
 This application is built entirely in Java and simulates the end-to-end booking process using three core, modular components:
 
 Login Module: Secure user authentication using in-memory credentials.
